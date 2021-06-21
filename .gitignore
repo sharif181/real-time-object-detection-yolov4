@@ -1,0 +1,4 @@
+.vscode
+coco.names
+yolov4.cfg
+yolov4.weights
